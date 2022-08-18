@@ -1,5 +1,5 @@
 - 👋 Bonjour, I’m @Louisianish
-- 👀 I’m interested in web development, database development, mobile app development, UX and UI design, cultural tourism, guest service, and learning languages, both natural human languages and computer languages (programming/scripting/markup).
+- 👀 I’m interested in web development, database development, UX and UI design, data engineering, mobile app development, cultural tourism, guest service, and learning languages, both natural human languages and computer languages (programming/scripting/markup).
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and SQL as a part of my associates degree in computer programming and analysis.
 - 📫 How to reach me: Find me on all social media platforms by searching the name Louisianish.
 
